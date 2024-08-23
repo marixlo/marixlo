@@ -1,7 +1,7 @@
 ## Marianna D` Omar 
 <p>  ➝ olá 🍀</p>
 <p>   ➝ estudante de Engenharia de Software</p>
-<p>    ➝interessada em back-end e cybersegurança 🎡  </p>
+<p>  </p>
 
 <div style="display: inline_block"><br>
 </div>
