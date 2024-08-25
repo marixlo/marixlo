@@ -1,5 +1,5 @@
 ## Marianna D` Omar 
-<p>  ➝ olá 🍀</p>
+<p>  ➝ Olá 🍀</p>
 <p>   ➝ estudante de Engenharia de Software</p>
 <p>  </p>
 
